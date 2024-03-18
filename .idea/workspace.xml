@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2cad06-f6d5-4cd6-a51e-33428c2b154c" name="Changes" comment="" />
+    <list default="true" id="ee2cad06-f6d5-4cd6-a51e-33428c2b154c" name="Changes" comment="fjasdfas">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.last_build_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/AssetManifest.bin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/images/loginbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/native/dummycar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/native/dummyprofile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/native/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/native/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/native/nativelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/native/protagbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/pdf/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/pdf/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/assets/pdf/logoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/packages/syncfusion_flutter_datagrid/assets/font/UnsortIcon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/canvaskit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/canvaskit.js.symbols" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js.symbols" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/skwasm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/skwasm.js.symbols" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/skwasm.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvaskit/skwasm.worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +72,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "dart.analysis.tool.window.visible": "false"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,5 +92,20 @@
       <updated>1710777628213</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fjasdfas" />
+    <option name="LAST_COMMIT_MESSAGE" value="fjasdfas" />
   </component>
 </project>
